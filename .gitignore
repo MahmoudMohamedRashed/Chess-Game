@@ -1,0 +1,6 @@
+build/* 
+*.pro.user
+*.pro.user.*
+*.qmake.stash
+*.qmake.cache
+*.log
